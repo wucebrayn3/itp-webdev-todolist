@@ -12,7 +12,7 @@ header{
     border: 2px rgb(20,20,20) solid;
     padding: 10px;
     background-color: #E0E0E0;
-    
+    box-shadow: 0 0 5px rgba(20,20,20,0.75);
 }
 
 h1{

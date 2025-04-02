@@ -1,0 +1,11 @@
+.remove-all{
+    box-shadow: 0 0 5px rgba(20,20,20,0.75);
+    transition: all 0.3s ease-in-out;
+}
+
+.remove-all:hover{
+    transform: scale(1.025);
+    background-color: #E0E0E0;
+    color: rgb(20,20,20);
+    border-color: rgb(20,20,20);
+}

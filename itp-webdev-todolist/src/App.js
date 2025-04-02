@@ -1,4 +1,5 @@
 import TaskContainer from "./components/TaskContainer";
+import About from "./components/About";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
                           boxSizing: "border-box"
                           }}>
         <TaskContainer />
+        <About />
     </div>
   );
 }

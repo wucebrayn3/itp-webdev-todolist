@@ -3,7 +3,6 @@ import "../styles/TaskContainerStyle.css";
 import Header from "./Header.jsx";
 
 function TaskContainer() {
-  // Load tasks from localStorage when the component first mounts
   const [tasks, setTasks] = useState(() => {
     const savedTasks = localStorage.getItem("tasks");
     return savedTasks ? JSON.parse(savedTasks) : [];
@@ -24,7 +23,7 @@ function TaskContainer() {
 
   const clearTask = () => {
     setTasks([]);
-    localStorage.removeItem("tasks"); // Clear localStorage as well
+    localStorage.removeItem("tasks");
   };
 
   const updateTask = (id, field, value) => {
