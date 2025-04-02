@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "MC";
+    src: url("../assets/fonts/MinecraftRegular-Bmg3.otf");
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    border: 2px rgb(20,20,20) solid;
+    padding: 10px;
+    background-color: #E0E0E0;
+    
+}
+
+h1{
+    font-family: MC;
+    font-size: clamp(0.5rem, 6vw, 2.3rem);
+    padding: 0;
+    margin: 0;
+    color: rgb(20,20,20);
+}
+
+.remove-all{
+    padding: 5px;
+    border-radius: 5px;
+    font-family: MC;
+    font-size: clamp(0.3rem, 4vw, 1rem);
+    background-color: white;
+    border-color: rgb(20,20,20);
+}
