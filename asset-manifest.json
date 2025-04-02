@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/itp-webdev-todolist/static/css/main.bce70598.css",
-    "main.js": "/itp-webdev-todolist/static/js/main.da2ff79b.js",
+    "main.css": "/itp-webdev-todolist/static/css/main.aac267f1.css",
+    "main.js": "/itp-webdev-todolist/static/js/main.4a6db86c.js",
     "static/media/MinecraftRegular-Bmg3.otf": "/itp-webdev-todolist/static/media/MinecraftRegular-Bmg3.82ba08919dc2add9422f.otf",
     "index.html": "/itp-webdev-todolist/index.html",
-    "main.bce70598.css.map": "/itp-webdev-todolist/static/css/main.bce70598.css.map",
-    "main.da2ff79b.js.map": "/itp-webdev-todolist/static/js/main.da2ff79b.js.map"
+    "main.aac267f1.css.map": "/itp-webdev-todolist/static/css/main.aac267f1.css.map",
+    "main.4a6db86c.js.map": "/itp-webdev-todolist/static/js/main.4a6db86c.js.map"
   },
   "entrypoints": [
-    "static/css/main.bce70598.css",
-    "static/js/main.da2ff79b.js"
+    "static/css/main.aac267f1.css",
+    "static/js/main.4a6db86c.js"
   ]
 }
